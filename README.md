@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Lucas</h1>
 <h3 align="center">Curioso y apasionado de los datos y machine learning</h3>
 
-- Actualmente cursando **técnico superior en ciencia de datos e inteligencia artificial en IES**
-
-- Preguntame sobre **python,Pandas,Numpy,matprotlib,Sklearn,Powerbi,SQL**
+- Data scientist
+- 
+- Preguntame sobre **Algoritmos predictivos y soluciones basadas en datos**
 
 - Escribeme a **Lucasivanmendozaies@gmail.com**
 
