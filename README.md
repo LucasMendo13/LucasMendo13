@@ -10,9 +10,9 @@
 
 ---
 
-Analista de datos con foco en machine learning aplicado: modelos que terminan en un resultado medible, no en un notebook suelto. Actualmente implemento un **ERP completo (Odoo 17 + PostgreSQL + Docker) para una panadería con 2 sucursales** — POS, recetas/BOM con costeo automático y reportes SQL en Metabase — y curso la tesis final de la tecnicatura.
+Analista de datos con foco en machine learning aplicado: modelos que terminan en un resultado medible, no en un notebook suelto. Actualmente estoy poniendo en producción un **sistema POS que desarrollé de cero para una panadería real** (Next.js + TypeScript + Prisma + PostgreSQL): ventas con lector de código de barras y productos pesables, caja con apertura, arqueo y cierre por turno, anulación auditable de tickets y reportes de ventas por hora con ranking Pareto. En paralelo curso la tesis final de la tecnicatura.
 
-*Data analyst focused on applied machine learning — models that end in measurable results, not loose notebooks. Currently building a full ERP (Odoo 17 + PostgreSQL + Docker) for a two-branch bakery.*
+*Data analyst focused on applied machine learning — models that end in measurable results, not loose notebooks. Currently shipping a point-of-sale system I built from scratch for a real bakery (Next.js + TypeScript + Prisma + PostgreSQL): barcode scanning, weighted products, per-shift cash register with reconciliation, auditable ticket voiding, and hourly-sales / Pareto reports.*
 
 ## 🚀 Proyectos destacados / Featured projects
 
@@ -37,11 +37,13 @@ Analista de datos con foco en machine learning aplicado: modelos que terminan en
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/XGBoost-1A6BAC?style=flat-square" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
