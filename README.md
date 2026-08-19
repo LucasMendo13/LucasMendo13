@@ -22,7 +22,7 @@ Analista de datos con foco en machine learning aplicado: modelos que terminan en
 | ⚽ [Predicción de xG en La Liga](https://github.com/LucasMendo13/machine-learning-portfolio/tree/main/02-laliga-xg-prediction) | 63k tiros → 100+ features (ELO, rolling windows), XGBoost/RF con validación temporal | Detección y corrección de **data leakage** documentada |
 | 🎮 [Agentes RL para Ta-Te-Ti 5×5](https://github.com/LucasMendo13/machine-learning-portfolio/tree/main/03-tictactoe-5x5-rl-agents) | Double DQN (TensorFlow) vs. Random Forest por imitación | **98% de victorias** contra jugador aleatorio |
 | 📧 [Ruteo de emails por intención](https://github.com/LucasMendo13/machine-learning-portfolio/tree/main/04-email-intent-classification) | TF-IDF + LogReg/SVM servido vía API Python en un workflow n8n → Gmail | **F1-macro 0,77** en automatización real |
-| 🤖 [Bot de eventos resiliente (n8n)](https://github.com/LucasMendo13/machine-learning-portfolio/tree/main/08-n8n-resilient-event-bot) | Bot Telegram multi-fuente con LLM router, Supabase, error handling y health checks | [Dashboard en vivo](https://lucasmendo13.github.io/eventos-cordoba-dashboard/) 📊 |
+| 🤖 [Bot de eventos resiliente (n8n)](https://github.com/LucasMendo13/machine-learning-portfolio/tree/main/08-n8n-resilient-event-bot) | Bot Telegram multi-fuente con LLM router, Supabase, error handling y health checks | [Demo del dashboard](https://lucasmendo13.github.io/eventos-cordoba-dashboard/) 📊 |
 
 ➡️ Portfolio completo (9 proyectos, bilingüe EN/ES): [machine-learning-portfolio](https://github.com/LucasMendo13/machine-learning-portfolio)
 
