@@ -10,9 +10,9 @@
 
 ---
 
-Analista de datos con foco en machine learning aplicado: modelos que terminan en un resultado medible, no en un notebook suelto. Actualmente estoy poniendo en producción un **sistema POS que desarrollé de cero para una panadería real** (Next.js + TypeScript + Prisma + PostgreSQL): ventas con lector de código de barras y productos pesables, caja con apertura, arqueo y cierre por turno, anulación auditable de tickets y reportes de ventas por hora con ranking Pareto. En paralelo curso la tesis final de la tecnicatura.
+Analista de datos con foco en machine learning aplicado: modelos que terminan en un resultado medible. Actualmente estoy poniendo en producción un **sistema POS que desarrollé de cero para una panadería real** (Next.js + TypeScript + Prisma + PostgreSQL). En paralelo curso la tesis final de la tecnicatura.
 
-*Data analyst focused on applied machine learning — models that end in measurable results, not loose notebooks. Currently shipping a point-of-sale system I built from scratch for a real bakery (Next.js + TypeScript + Prisma + PostgreSQL): barcode scanning, weighted products, per-shift cash register with reconciliation, auditable ticket voiding, and hourly-sales / Pareto reports.*
+*Data analyst focused on applied machine learning — models that end in measurable results, not loose notebooks. Currently shipping a point-of-sale system I built from scratch for a real bakery (Next.js + TypeScript + Prisma + PostgreSQL).*
 
 ## 🚀 Proyectos destacados / Featured projects
 
